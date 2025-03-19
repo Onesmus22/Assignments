@@ -15,5 +15,9 @@ treversing an element in an array.
 inserting an element in an array.
 ![z3](https://github.com/user-attachments/assets/4c5d20d2-cb97-4460-9b07-b0f76ff83f5b)
 
+stacks.
+![ones](https://github.com/user-attachments/assets/18301b59-ba8c-43b5-8ca2-41f83693f117)
+
+
 
 
