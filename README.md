@@ -17,6 +17,8 @@ inserting an element in an array.
 
 stacks.
 ![ones](https://github.com/user-attachments/assets/18301b59-ba8c-43b5-8ca2-41f83693f117)
+satcks on friends.
+![ones 2](https://github.com/user-attachments/assets/39476972-96ca-46d4-9514-a1adac32f49d)
 
 
 
